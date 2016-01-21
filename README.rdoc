@@ -1,5 +1,7 @@
 == README
 
+This application is no more update. Just scaffold.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
